@@ -1,0 +1,43 @@
+.btnsContainer {
+    margin-top: 70px;
+    width: 120px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.terms__button {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.slice__button,
+.spin__button {
+    width: 112px;
+    height: 44px;
+    font-size: 14px;
+    line-height: 0;
+    margin-bottom: 4px;
+    outline: none;
+    padding: 0;
+}
+
+.spin__button {
+    font-size: 16px;
+    margin-top: 40px;
+}
+
+.close__button {
+    text-align: right;
+}
+
+.active.slice__button {
+    background-color: #212429;
+    border: rgb(80, 79, 79);
+    color: var(--white);
+}
+
+.btnsWrapper {
+    display: flex;
+    flex-direction: column;
+}

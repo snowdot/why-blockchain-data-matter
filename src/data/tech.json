@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Integrity",
+        "description": "Blockchain doesn't have a central authority. It ensures trust of data by maintaining a decentralized ledger. Nodes are responsible for verifying data and putting it in a block and then store it on the blockchain. Nodes also store details about the origin of the data block thus ensuring data integrity. This verification process makes data recorded on the blockchain trustworthy."
+    },
+    {
+        "name": "Immutability",
+        "description": "Blockchain is transparent, making data available to anyone and it uses consensus algorithms for data verification. Its’ network is largely distributed due to the fact that all nodes keep a copy of the ledger. In order to modify data on the blockchain, nodes must be pooled together to create a consensus. This mechanism makes it almost impossible for a criminal to alter data."
+    },
+    {
+        "name": "DeFi",
+        "description": "Decentralized finance is an ecosystem of financial applications that are built on top of blockchain. Making use of all the blockchain data available people can create their own defi application or they can use an existing one, depending on the use case they are looking for: from lending and borrowing coins, to locking their own coins in order to make a profit."
+    },
+    {
+        "name": "Analysis",
+        "description": "Analysing blockchain data can reveal valuable insights into the behaviours, trends, social sentiments etc. Making real-time analysis of data on a large scale is a powerful tool that can be used to predict with good accuracy future outcomes."
+    },
+    {
+        "name": "Privacy",
+        "description": "Some blockchains offer privacy by using a protocol called zero-knowledge proof that has embedded some complex cryptographic methods that don’t reveal any information about the data except the fact that it is valid."
+    }
+]

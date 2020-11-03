@@ -1,0 +1,45 @@
+:root {
+    --can-width: 500px;
+    --can-height: 500px;
+    --can-border: 2px solid var(--black);
+}
+
+.canvasWrapper {
+    width: var(--can-width);
+    height: var(--can-height);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.canvas {
+    background-color: var(--color-wh);
+    border-radius: 50%;
+    overflow: visible;
+}
+
+.canvas__circle {
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    transform: scale(0.945);
+    border-radius: 40%;
+}
+
+.rotate {
+    animation: rotate 2s;
+}
+
+text {
+    color: var(--black);
+    font-size: 14px;
+    pointer-events: none;
+}
+
+@keyframes rotate {
+    from { 
+        transform: scale(0.945) rotate(0deg); 
+    } to { 
+        transform: scale(0.945) rotate(1080deg); 
+    }
+}

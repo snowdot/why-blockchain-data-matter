@@ -1,0 +1,33 @@
+.card__terms {
+    background-color: var(--white);
+    max-width: 540px;
+    margin: 0 auto;
+    margin-top: 60px;
+    height: 780px;
+    padding: 10px;
+    position: relative;
+    user-select: none;
+}
+
+.nes-table {
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
+
+.card__terms h2 {
+    text-align: center;
+}
+
+.card__terms table th,
+.card__terms table td {
+    color: var(--white);
+}
+
+.card__terms table th {
+    font-size: 20px;
+}
+
+.card__terms button {
+    margin-top: 666px;
+}

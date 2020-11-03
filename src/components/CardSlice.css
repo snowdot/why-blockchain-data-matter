@@ -1,0 +1,10 @@
+.card__slice {
+    background-color: var(--white);
+    width: 440px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.card__slice .name {
+    font-size: 20px;
+}

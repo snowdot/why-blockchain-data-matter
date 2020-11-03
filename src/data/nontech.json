@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Good spells",
+        "description": "The wizard's library isn't controlled by anyone and sorcerers work to maintain it. All spells written in the books are good because the sorcerers check every spell before writing it. Details of the origin for every book is kept to ensure the integrity of spells, so you can trust that whatever spell you pick is a good one."
+    },
+    {
+        "name": "No cheating",
+        "description": "The game will always be fair because the wizard's library is open to all magical creatures in the realm. If a player wants to cheat and change a spell in one of the books, he must find a way to fool the Council of Sorcerers. It is pretty impossible to do that because all members of the council keep copies to prevent such malicious acts."
+    },
+    {
+        "name": "Unicorns",
+        "description": "Unicorns exist. You can create your own unicorn by combining the right spells or you can use one already created. Even though unicorns have unique traits, they all revolve around gold. Some will give you the ability to lend your gold, some to borrow and others will let you lock your gold in order to increase it over time."
+    },
+    {
+        "name": "True sight",
+        "description": "Looking a little closer at the spells might reveal the true nature of the magical creatures that performed them. The one harnessing this power could get a glimpse of what the future holds and might predict their next move."
+    },
+    {
+        "name": "Invisibility",
+        "description": "There are wizards that keep in their libraries invisible spells. Those spells are still good abut a magic cloak is used and is able to conceal details about each spell and only keep the proof that the spell is good."
+    }
+]

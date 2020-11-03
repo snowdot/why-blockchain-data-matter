@@ -1,0 +1,53 @@
+:root {
+    --black: #222423;
+    --purple: #26225e;
+    --white: #f7f7f7;
+}
+
+* {
+    color: var(--black);
+    box-sizing: border-box;
+    font-family: '8BITWONDERNominal', 'Courier New', Courier, monospace;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    outline: none;
+    background: transparent;
+    border: 0px;
+    cursor: pointer;
+}
+
+header {
+    font-size: 30px;
+    width: 100%;
+    margin: 60px auto;
+    width: 700px;
+    text-align: center;
+}
+
+main {
+    margin: 0 auto;
+    width: 700px;
+    position: relative;
+}
+
+footer {
+    font-size: 10px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 600px;
+    text-align: right;
+}
+
+footer i {
+    transform: scale(0.5);
+}
+
+rect {
+    width: 5px;
+    height: 5px;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "tech": "Blockchain",
+        "notech": "Wizard library"
+    },
+    {
+        "tech": "Node",
+        "notech": "Sorcerer"
+    },
+    {
+        "tech": "Data",
+        "notech": "Spell"
+    },
+    {
+        "tech": "Block",
+        "notech": "Book"
+    },
+    {
+        "tech": "Consensus of nodes",
+        "notech": "Council of sorcerers"
+    },
+    {
+        "tech": "Decentralized finance",
+        "notech": "Unicorns"
+    },
+    {
+        "tech": "Privacy",
+        "notech": "Invisibility"
+    },
+    {
+        "tech": "Data integrity",
+        "notech": "Good spells"
+    },
+    {
+        "tech": "Immutability",
+        "notech": "No cheating"
+    },
+    {
+        "tech": "Analysis",
+        "notech": "True sight"
+    },
+    {
+        "tech": "Protocol",
+        "notech": "Magic cloak"
+    },
+    {
+        "tech": "Zero-knowledge proof",
+        "notech": "Proof"
+    }
+]
