@@ -78,7 +78,7 @@ const Wheel = () => {
         <div className="canvasWrapper">
             <svg ref={svgRef}></svg>
             <img
-                className="canvas__circle"
+                className={`canvas__circle ${mainContext.state.hasRotate ? 'rotate' : ''}`}
                 src={circle}
                 alt="circle"
             ></img>

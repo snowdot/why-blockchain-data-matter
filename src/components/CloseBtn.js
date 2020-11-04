@@ -7,6 +7,7 @@ const CloseBtn = () => {
 
     const handleOnClick = e => {
         if(e.target === btnRef.current) {
+            mainContext.setState.setHasRotate(false);
             mainContext.setState.setShowModal(false);
             mainContext.setState.setShowTerms(false);
         }

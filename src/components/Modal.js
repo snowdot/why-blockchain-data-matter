@@ -10,6 +10,7 @@ const Modal = () => {
 
     const handleOnClick = e => {
         if(e.target === modalRef.current) {
+            mainContext.setState.setHasRotate(false);
             mainContext.setState.setShowModal(false);
             mainContext.setState.setShowTerms(false);
         }

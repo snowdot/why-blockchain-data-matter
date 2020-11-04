@@ -26,18 +26,14 @@ const SpinBtn = () => {
             };
         }
 
-        d3.selectAll('.canvas__circle')
-            .classed('rotate', true);
+        mainContext.setState.setHasRotate(true);
 
         d3.selectAll('.wheel')
             .transition()
             .duration(duration)
             .attrTween('transform', rotTween)
             .ease(easing)
-            .on('end', () => {              
-                d3.selectAll('.canvas__circle')
-                    .classed('rotate', false);
-
+            .on('end', () => {                             
                 setTimeout(() => {
                     mainContext.setState.setCurrent(randomInd);
                     mainContext.setState.setShowModal(true);

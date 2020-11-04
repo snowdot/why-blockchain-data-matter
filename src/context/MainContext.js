@@ -16,6 +16,7 @@ export const MainProvider = ({ children }) => {
     });
     const [data, setData] = useState([]);
     const [current, setCurrent] = useState(0);
+    const [hasRotate, setHasRotate] = useState(false);
     const [showModal, setShowModal] = useState(false);
     const [showTerms, setShowTerms] = useState(false);
 
@@ -46,12 +47,14 @@ export const MainProvider = ({ children }) => {
                     file,
                     title,
                     terms,
+                    hasRotate,
                     showModal,
                     showTerms
                 },
                 setState: {
                     setCurrent,
                     setFile,
+                    setHasRotate,
                     setShowModal,
                     setShowTerms
                 }
