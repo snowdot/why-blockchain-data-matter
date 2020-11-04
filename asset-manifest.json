@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/why-blockchain-data-matter/static/css/main.db787481.chunk.css",
-    "main.js": "/why-blockchain-data-matter/static/js/main.2393b621.chunk.js",
-    "main.js.map": "/why-blockchain-data-matter/static/js/main.2393b621.chunk.js.map",
+    "main.js": "/why-blockchain-data-matter/static/js/main.ae2aa44c.chunk.js",
+    "main.js.map": "/why-blockchain-data-matter/static/js/main.ae2aa44c.chunk.js.map",
     "runtime-main.js": "/why-blockchain-data-matter/static/js/runtime-main.a0b58528.js",
     "runtime-main.js.map": "/why-blockchain-data-matter/static/js/runtime-main.a0b58528.js.map",
     "static/css/2.fb514539.chunk.css": "/why-blockchain-data-matter/static/css/2.fb514539.chunk.css",
-    "static/js/2.87f6b66e.chunk.js": "/why-blockchain-data-matter/static/js/2.87f6b66e.chunk.js",
-    "static/js/2.87f6b66e.chunk.js.map": "/why-blockchain-data-matter/static/js/2.87f6b66e.chunk.js.map",
+    "static/js/2.9388b5c9.chunk.js": "/why-blockchain-data-matter/static/js/2.9388b5c9.chunk.js",
+    "static/js/2.9388b5c9.chunk.js.map": "/why-blockchain-data-matter/static/js/2.9388b5c9.chunk.js.map",
     "index.html": "/why-blockchain-data-matter/index.html",
     "static/css/2.fb514539.chunk.css.map": "/why-blockchain-data-matter/static/css/2.fb514539.chunk.css.map",
     "static/css/main.db787481.chunk.css.map": "/why-blockchain-data-matter/static/css/main.db787481.chunk.css.map",
-    "static/js/2.87f6b66e.chunk.js.LICENSE.txt": "/why-blockchain-data-matter/static/js/2.87f6b66e.chunk.js.LICENSE.txt"
+    "static/js/2.9388b5c9.chunk.js.LICENSE.txt": "/why-blockchain-data-matter/static/js/2.9388b5c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a0b58528.js",
     "static/css/2.fb514539.chunk.css",
-    "static/js/2.87f6b66e.chunk.js",
+    "static/js/2.9388b5c9.chunk.js",
     "static/css/main.db787481.chunk.css",
-    "static/js/main.2393b621.chunk.js"
+    "static/js/main.ae2aa44c.chunk.js"
   ]
 }
