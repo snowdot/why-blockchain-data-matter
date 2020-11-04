@@ -68,5 +68,5 @@ Protocol = Magic cloak
 
 Zero-knowledge proof = Proof
 
-## In-depth reading
+# In-depth reading
 https://bitcoin.org/bitcoin.pdf
